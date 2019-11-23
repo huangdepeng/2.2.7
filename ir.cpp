@@ -40,6 +40,7 @@ enum class RemoteButton {
 	  NUM9 = 0x4A
 };
 
+//% weight=9 icon="\uf2db" color=#8470FF
 namespace Sensor { 
   map<RemoteButton, vA> actions;
   map<RemoteButton, uint32_t> lastact;

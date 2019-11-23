@@ -36,5 +36,7 @@
     NUM8 = 0x52,
     NUM9 = 0x4A,
     }
+declare namespace Sensor {
+}
 
 // Auto-generated. Do not edit. Really.
